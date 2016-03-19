@@ -1,5 +1,4 @@
 ---
-profileimage: "http://robust.cs.utep.edu/adrian.jpg"
 name: "Adrian Veliz"
 title: "PhD Student / Research Assistant / Teaching Assistant"
 ---
